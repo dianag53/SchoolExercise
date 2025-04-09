@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #B29F89;
+    margin-top: -20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.header-img-caption {
+    display: flex;
+    justify-content: space-between;
+}
+
+/**
+ * justify-content:
+ * sorgt dafür das Elemente die in einer Flexbox liegen
+ * in der Mitte des Inhaltes frei Raum lassen
+ */
+.title-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#title{
+    font-weight: 1000;
+    font-size: 18px;
+}
+
+/**
+ * em:
+ * em steht für eine vergrößerung
+ * der initial gesetzen pt/px Angaben
+ */
+#name {
+    font-size: 3em;
+}
+
+.firstLine {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.firstLine-item {
+    padding: 0 10px;
+}
+
+#header-image {
+    width: 100%;
+    height: 900px;
+    object-fit: contain;
+}
+
+/*
+center zentriert aber nur text
+erklärung notwendig chatgpt hat geholfen =>
+wurde drüber gesprochen aber akzeptieren das es so ist
+Resonsive design
+*/
+.content {
+    /*bedeutet bombemfest absolute da bewegt sich gar nichts
+    steht über allen dingen*/
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 1560px) {
+    body {
+        font-weight: 900;
+        font-style: normal;
+        font-size: 15px;
+    }
+
+    #header-image {
+        height: 500px;
+        object-fit: contain;
+
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        font-weight: 800;
+        font-style: italic;
+    }
+
+    #header-image {
+        height: 300px;
+        /*verstecken von dingen*/
+        object-fit: cover;
+    }
+}
+
