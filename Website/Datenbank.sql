@@ -4,4 +4,4 @@ CREATE TABLE Products (
     description TEXT,
     price DECIMAL (10, 2) NOT NULL,
     image_url varchar(255),
-);gi
+);
