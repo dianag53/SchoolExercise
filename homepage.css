@@ -1,0 +1,139 @@
+/*https://imagecolorpicker.com/*/
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+body {
+    background-color: #a0927d;
+    margin: 0px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.title-nav-container {
+    display: flex;
+    /*sorgt dafür das platz mitte*/
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+#title{
+    margin: 0;
+    font-weight: 1000;
+    font-size: 2.5em;
+}
+
+
+
+
+
+.firstLine {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+    gap: 10px;
+}
+
+.firstLine-item {
+    display: flex;
+    margin: 0 15px;
+}
+
+#carouselExampleControls {
+    position: relative;
+    z-index: 1; /* Stellt sicher, dass das Karussell unterhalb des Navigationselements bleibt */
+}
+
+.carousel-item img {
+    max-height: 700px;
+    overflow: hidden;
+}
+
+
+
+
+#name {
+    font-size: 3em;
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#shopButton {
+
+    background-color: white;
+    padding: 10px;
+    min-width: 100px;
+    cursor: pointer;
+
+    /*background-color: white;
+    padding: 10px;
+    height: 20px;
+    width: 80px;
+    margin: 0 auto;
+    cursor: pointer;
+    */
+}
+
+#shopButton:hover {
+    background-color: #7e766b;
+    color: white;
+}
+
+
+
+.words-white {
+    color: white;
+}
+
+.content {
+    text-align: center;
+    color: #7e766b;
+    margin: 30px auto;
+}
+
+#Categories-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#main {
+    display: flex;
+    flex: 1 1 33.33333%;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+.container {
+    background-color: rgba(239, 238, 228, 0.45);
+    text-align: center;
+    width: 90%;
+    max-width: 500px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .content {
+        position: static;
+        top: auto;
+        transform: none;
+    }
+}
