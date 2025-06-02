@@ -1,195 +1,195 @@
 [
-    {
-      "name": "Bio-Aloe Vera Gel",
-      "price": 14.99,
-      "description": "100% reines Aloe Vera Gel aus biologischem Anbau, ideal zur Hautberuhigung und Feuchtigkeitspflege.",
-      "image": "https://m.media-amazon.com/images/I/712FoLZ4ZZL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Natürliche Gesichtscreme mit Sheabutter",
-      "price": 19.99,
-      "description": "Feuchtigkeitsspendende Gesichtscreme mit hochwertiger Sheabutter und Vitamin E für trockene Haut.",
-      "image": "https://m.media-amazon.com/images/I/71eOlu0WV-L._AC_UL320_.jpg"
-    },
-    {
-      "name": "Bio-Teebaumöl Shampoo",
-      "price": 12.99,
-      "description": "Sanftes Shampoo mit natürlichem Teebaumöl, ideal für fettige Kopfhaut und Haarausfall.",
-      "image": "https://m.media-amazon.com/images/I/712EvMa9b+L._AC_UL320_.jpg"
-    },
-    {
-      "name": "Lavendel-Bodylotion",
-      "price": 16.99,
-      "description": "Beruhigende Bodylotion mit Lavendelöl und Jojobaöl, für eine weiche und gepflegte Haut.",
-      "image": "https://m.media-amazon.com/images/I/51Ts9cN+-vL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Bio-Gesichtsserum mit Hyaluron",
-      "price": 29.99,
-      "description": "Feuchtigkeitsspendendes Gesichtsserum mit natürlichem Hyaluron, um die Haut zu straffen und Falten zu mildern.",
-      "image": "https://m.media-amazon.com/images/I/71sqNqtRTpL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Natürliche Zahnpasta mit Kurkuma",
-      "price": 7.99,
-      "description": "Zahnpasta auf natürlicher Basis mit Kurkuma, für eine sanfte Reinigung und Zahnaufhellung.",
-      "image": "https://m.media-amazon.com/images/I/61p1+fGcvDL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Kokosnuss-Haaröl",
-      "price": 13.99,
-      "description": "Pflegendes Haaröl aus reinem Kokosnussöl, ideal für trockenes und strapaziertes Haar.",
-      "image": "https://m.media-amazon.com/images/I/7144NBNb0LL._SY450_.jpg"
-    },
-    {
-      "name": "Rosmarin-Massageöl",
-      "price": 18.99,
-      "description": "Massagenöl mit Rosmarin für eine beruhigende Wirkung und eine verbesserte Blutzirkulation.",
-      "image": "https://m.media-amazon.com/images/I/71e2gJ8W6mL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Granatapfel-Gesichtsmaske",
-      "price": 15.49,
-      "description": "Feuchtigkeitsspendende und antioxidative Gesichtsmaske mit Granatapfelextrakt.",
-      "image": "https://m.media-amazon.com/images/I/71kqymMWxkL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Bambus-Zahnbürste",
-      "price": 3.99,
-      "description": "Nachhaltige Zahnbürste aus Bambus, umweltfreundlich und biologisch abbaubar.",
-      "image": "https://m.media-amazon.com/images/I/71ic2kTJ-AL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Kakaobutter-Bodybutter",
-      "price": 19.49,
-      "description": "Hautpflegende Bodybutter mit Kakaobutter für weiche, glatte Haut.",
-      "image": "https://m.media-amazon.com/images/I/81gmxouvk7L._AC_UL320_.jpg"
-    },
-    {
-      "name": "Jojobaöl Gesichtsserum",
-      "price": 24.99,
-      "description": "100% reines Jojobaöl, ideal als Gesichtsserum für trockene Haut.",
-      "image": "https://m.media-amazon.com/images/I/71cYA9bEflL._SY450_.jpg"
-    },
-    {
-      "name": "Arganöl-Haarmaske",
-      "price": 22.99,
-      "description": "Haarmaske mit Arganöl, für extra Feuchtigkeit und Glanz.",
-      "image": "https://m.media-amazon.com/images/I/61ubsIq4Y6L._AC_UL320_.jpg"
-    },
-    {
-      "name": "Teebaumöl-Peeling",
-      "price": 17.99,
-      "description": "Sanftes Peeling mit Teebaumöl für eine porentiefe Reinigung.",
-      "image": "https://m.media-amazon.com/images/I/71plgXXDKKL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Hanföl-Gesichtscreme",
-      "price": 21.99,
-      "description": "Beruhigende Gesichtscreme mit Hanföl, ideal für empfindliche Haut.",
-      "image": "https://m.media-amazon.com/images/I/51lwU1XSIbL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Kurkuma-Gesichtsmaske",
-      "price": 13.99,
-      "description": "Hautverfeinernde Gesichtsmaske mit Kurkuma und Honig für strahlende Haut.",
-      "image": "https://m.media-amazon.com/images/I/71mJqXzD8HS._AC_UL320_.jpg"
-    },
-    {
-      "name": "Salbeitee-Shampoo",
-      "price": 10.99,
-      "description": "Sanftes Shampoo mit Salbeiextrakt für gesundes und glänzendes Haar.",
-      "image": "https://m.media-amazon.com/images/I/61AQF7I-gZL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Mandelöl-Handcreme",
-      "price": 9.99,
-      "description": "Pflegende Handcreme mit Mandelöl, ideal für trockene und rissige Hände.",
-      "image": "https://m.media-amazon.com/images/I/41FG-IlTWzL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Koffein-Augencreme",
-      "price": 18.99,
-      "description": "Erfrischende Augencreme mit Koffein, um Schwellungen und Augenringe zu reduzieren.",
-      "image": "https://m.media-amazon.com/images/I/61z8dvGvn0L._AC_UL320_.jpg"
-    },
-    {
-      "name": "Kamillenblüten-Tee-Extrakt",
-      "price": 11.49,
-      "description": "Beruhigender Hautextrakt aus Kamillenblüten für empfindliche Haut.",
-      "image": "https://m.media-amazon.com/images/I/51Qxo5TySNL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Grüner Tee Gesichtsserum",
-      "price": 23.99,
-      "description": "Gesichtsserum mit grünem Tee-Extrakt, antioxidativ und feuchtigkeitsspendend.",
-      "image": "https://m.media-amazon.com/images/I/61X3PJB8hSL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Aloe Vera Lippenbalsam",
-      "price": 4.99,
-      "description": "Natürlicher Lippenbalsam mit Aloe Vera für weiche und gepflegte Lippen.",
-      "image": "https://m.media-amazon.com/images/I/71MPmhdNo6L._AC_UL320_.jpg"
-    },
-    {
-      "name": "Kokosnuss-Seife",
-      "price": 5.99,
-      "description": "Natürliche Seife mit Kokosnussöl, ideal für die sanfte Hautpflege.",
-      "image": "https://m.media-amazon.com/images/I/717BKPAF6NL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Bentonit-Tonerde-Gesichtsmaske",
-      "price": 16.49,
-      "description": "Reinigende Gesichtsmaske mit Bentonit-Tonerde für tiefenreine Haut.",
-      "image": "https://m.media-amazon.com/images/I/516BpHRjSIL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Bio-Moringa-Öl",
-      "price": 25.99,
-      "description": "Reines Bio-Moringa-Öl für eine intensive Hautpflege und Regeneration.",
-      "image": "https://m.media-amazon.com/images/I/81w9mhOnNmL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Rosenwasser-Toner",
-      "price": 12.99,
-      "description": "Beruhigender Toner mit Rosenwasser für die perfekte Hautpflege.",
-      "image": "https://m.media-amazon.com/images/I/61C7pjB6jwL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Weizenkeimöl Gesichtscreme",
-      "price": 22.49,
-      "description": "Feuchtigkeitsspendende Gesichtscreme mit Weizenkeimöl für straffe Haut.",
-      "image": "https://m.media-amazon.com/images/I/613TwChXbvL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Eukalyptus-Öl",
-      "price": 9.99,
-      "description": "Eukalyptus-Öl für frische Luft und belebende Hautpflege.",
-      "image": "https://m.media-amazon.com/images/I/81Nj25bOuNL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Zitronenmelisse-Gesichtsmaske",
-      "price": 13.99,
-      "description": "Erfrischende Gesichtsmaske mit Zitronenmelisse für ein strahlendes Aussehen.",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-p4M4F5Ont6JV_87q6Vkh_Qtx3zEbu6Q2vBf7ys3XJzuwCJM_TDxrXkMNWpITNdLBEzD9BABBbCEiIPu396Z0BEegwdiTXKHkksii-a7DBXyrZsb8__N4gA"
-    },
-    {
-      "name": "Propolis-Hautbalsam",
-      "price": 15.49,
-      "description": "Heilender Hautbalsam mit Propolis für die Behandlung irritierter Haut.",
-      "image": "https://m.media-amazon.com/images/I/71FpvKTmkuL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Sheabutter-Körperpeeling",
-      "price": 20.99,
-      "description": "Körperpeeling mit Sheabutter für samtweiche Haut.",
-      "image": "https://m.media-amazon.com/images/I/91IWhtsDpoL._AC_UL320_.jpg"
-    },
-    {
-      "name": "Zedernholz-Öl",
-      "price": 17.49,
-      "description": " ideal für Körper und Sinne. Beruhigt, klärt und unterstützt die Regeneration.",
-      "image": "https://m.media-amazon.com/images/I/91EVzz0+vJL._AC_UL320_.jpg"
-    }
-  ]
+  {
+    "name": "Bio-Aloe Vera Gel",
+    "price": 14.99,
+    "description": "100% reines Aloe Vera Gel aus biologischem Anbau, ideal zur Hautberuhigung und Feuchtigkeitspflege.",
+    "image": "https://m.media-amazon.com/images/I/712FoLZ4ZZL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Natürliche Gesichtscreme mit Sheabutter",
+    "price": 19.99,
+    "description": "Feuchtigkeitsspendende Gesichtscreme mit hochwertiger Sheabutter und Vitamin E für trockene Haut.",
+    "image": "https://m.media-amazon.com/images/I/71eOlu0WV-L._AC_UL320_.jpg"
+  },
+  {
+    "name": "Bio-Teebaumöl Shampoo",
+    "price": 12.99,
+    "description": "Sanftes Shampoo mit natürlichem Teebaumöl, ideal für fettige Kopfhaut und Haarausfall.",
+    "image": "https://m.media-amazon.com/images/I/712EvMa9b+L._AC_UL320_.jpg"
+  },
+  {
+    "name": "Lavendel-Bodylotion",
+    "price": 16.99,
+    "description": "Beruhigende Bodylotion mit Lavendelöl und Jojobaöl, für eine weiche und gepflegte Haut.",
+    "image": "https://m.media-amazon.com/images/I/51Ts9cN+-vL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Bio-Gesichtsserum mit Hyaluron",
+    "price": 29.99,
+    "description": "Feuchtigkeitsspendendes Gesichtsserum mit natürlichem Hyaluron, um die Haut zu straffen und Falten zu mildern.",
+    "image": "https://m.media-amazon.com/images/I/71sqNqtRTpL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Natürliche Zahnpasta mit Kurkuma",
+    "price": 7.99,
+    "description": "Zahnpasta auf natürlicher Basis mit Kurkuma, für eine sanfte Reinigung und Zahnaufhellung.",
+    "image": "https://m.media-amazon.com/images/I/61p1+fGcvDL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Kokosnuss-Haaröl",
+    "price": 13.99,
+    "description": "Pflegendes Haaröl aus reinem Kokosnussöl, ideal für trockenes und strapaziertes Haar.",
+    "image": "https://m.media-amazon.com/images/I/7144NBNb0LL._SY450_.jpg"
+  },
+  {
+    "name": "Rosmarin-Massageöl",
+    "price": 18.99,
+    "description": "Massagenöl mit Rosmarin für eine beruhigende Wirkung und eine verbesserte Blutzirkulation.",
+    "image": "https://m.media-amazon.com/images/I/71e2gJ8W6mL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Granatapfel-Gesichtsmaske",
+    "price": 15.49,
+    "description": "Feuchtigkeitsspendende und antioxidative Gesichtsmaske mit Granatapfelextrakt.",
+    "image": "https://m.media-amazon.com/images/I/71kqymMWxkL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Bambus-Zahnbürste",
+    "price": 3.99,
+    "description": "Nachhaltige Zahnbürste aus Bambus, umweltfreundlich und biologisch abbaubar.",
+    "image": "https://m.media-amazon.com/images/I/71ic2kTJ-AL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Kakaobutter-Bodybutter",
+    "price": 19.49,
+    "description": "Hautpflegende Bodybutter mit Kakaobutter für weiche, glatte Haut.",
+    "image": "https://m.media-amazon.com/images/I/81gmxouvk7L._AC_UL320_.jpg"
+  },
+  {
+    "name": "Jojobaöl Gesichtsserum",
+    "price": 24.99,
+    "description": "100% reines Jojobaöl, ideal als Gesichtsserum für trockene Haut.",
+    "image": "https://m.media-amazon.com/images/I/71cYA9bEflL._SY450_.jpg"
+  },
+  {
+    "name": "Arganöl-Haarmaske",
+    "price": 22.99,
+    "description": "Haarmaske mit Arganöl, für extra Feuchtigkeit und Glanz.",
+    "image": "https://m.media-amazon.com/images/I/61ubsIq4Y6L._AC_UL320_.jpg"
+  },
+  {
+    "name": "Teebaumöl-Peeling",
+    "price": 17.99,
+    "description": "Sanftes Peeling mit Teebaumöl für eine porentiefe Reinigung.",
+    "image": "https://m.media-amazon.com/images/I/71plgXXDKKL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Hanföl-Gesichtscreme",
+    "price": 21.99,
+    "description": "Beruhigende Gesichtscreme mit Hanföl, ideal für empfindliche Haut.",
+    "image": "https://m.media-amazon.com/images/I/51lwU1XSIbL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Kurkuma-Gesichtsmaske",
+    "price": 13.99,
+    "description": "Hautverfeinernde Gesichtsmaske mit Kurkuma und Honig für strahlende Haut.",
+    "image": "https://m.media-amazon.com/images/I/71mJqXzD8HS._AC_UL320_.jpg"
+  },
+  {
+    "name": "Salbeitee-Shampoo",
+    "price": 10.99,
+    "description": "Sanftes Shampoo mit Salbeiextrakt für gesundes und glänzendes Haar.",
+    "image": "https://m.media-amazon.com/images/I/61AQF7I-gZL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Mandelöl-Handcreme",
+    "price": 9.99,
+    "description": "Pflegende Handcreme mit Mandelöl, ideal für trockene und rissige Hände.",
+    "image": "https://m.media-amazon.com/images/I/41FG-IlTWzL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Koffein-Augencreme",
+    "price": 18.99,
+    "description": "Erfrischende Augencreme mit Koffein, um Schwellungen und Augenringe zu reduzieren.",
+    "image": "https://m.media-amazon.com/images/I/61z8dvGvn0L._AC_UL320_.jpg"
+  },
+  {
+    "name": "Kamillenblüten-Tee-Extrakt",
+    "price": 11.49,
+    "description": "Beruhigender Hautextrakt aus Kamillenblüten für empfindliche Haut.",
+    "image": "https://m.media-amazon.com/images/I/51Qxo5TySNL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Grüner Tee Gesichtsserum",
+    "price": 23.99,
+    "description": "Gesichtsserum mit grünem Tee-Extrakt, antioxidativ und feuchtigkeitsspendend.",
+    "image": "https://m.media-amazon.com/images/I/61X3PJB8hSL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Aloe Vera Lippenbalsam",
+    "price": 4.99,
+    "description": "Natürlicher Lippenbalsam mit Aloe Vera für weiche und gepflegte Lippen.",
+    "image": "https://m.media-amazon.com/images/I/71MPmhdNo6L._AC_UL320_.jpg"
+  },
+  {
+    "name": "Kokosnuss-Seife",
+    "price": 5.99,
+    "description": "Natürliche Seife mit Kokosnussöl, ideal für die sanfte Hautpflege.",
+    "image": "https://m.media-amazon.com/images/I/717BKPAF6NL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Bentonit-Tonerde-Gesichtsmaske",
+    "price": 16.49,
+    "description": "Reinigende Gesichtsmaske mit Bentonit-Tonerde für tiefenreine Haut.",
+    "image": "https://m.media-amazon.com/images/I/516BpHRjSIL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Bio-Moringa-Öl",
+    "price": 25.99,
+    "description": "Reines Bio-Moringa-Öl für eine intensive Hautpflege und Regeneration.",
+    "image": "https://m.media-amazon.com/images/I/81w9mhOnNmL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Rosenwasser-Toner",
+    "price": 12.99,
+    "description": "Beruhigender Toner mit Rosenwasser für die perfekte Hautpflege.",
+    "image": "https://m.media-amazon.com/images/I/61C7pjB6jwL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Weizenkeimöl Gesichtscreme",
+    "price": 22.49,
+    "description": "Feuchtigkeitsspendende Gesichtscreme mit Weizenkeimöl für straffe Haut.",
+    "image": "https://m.media-amazon.com/images/I/613TwChXbvL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Eukalyptus-Öl",
+    "price": 9.99,
+    "description": "Eukalyptus-Öl für frische Luft und belebende Hautpflege.",
+    "image": "https://m.media-amazon.com/images/I/81Nj25bOuNL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Zitronenmelisse-Gesichtsmaske",
+    "price": 13.99,
+    "description": "Erfrischende Gesichtsmaske mit Zitronenmelisse für ein strahlendes Aussehen.",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-p4M4F5Ont6JV_87q6Vkh_Qtx3zEbu6Q2vBf7ys3XJzuwCJM_TDxrXkMNWpITNdLBEzD9BABBbCEiIPu396Z0BEegwdiTXKHkksii-a7DBXyrZsb8__N4gA"
+  },
+  {
+    "name": "Propolis-Hautbalsam",
+    "price": 15.49,
+    "description": "Heilender Hautbalsam mit Propolis für die Behandlung irritierter Haut.",
+    "image": "https://m.media-amazon.com/images/I/71FpvKTmkuL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Sheabutter-Körperpeeling",
+    "price": 20.99,
+    "description": "Körperpeeling mit Sheabutter für samtweiche Haut.",
+    "image": "https://m.media-amazon.com/images/I/91IWhtsDpoL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Zedernholz-Öl",
+    "price": 17.49,
+    "description": " ideal für Körper und Sinne. Beruhigt, klärt und unterstützt die Regeneration.",
+    "image": "https://m.media-amazon.com/images/I/91EVzz0+vJL._AC_UL320_.jpg"
+  }
+]
  
