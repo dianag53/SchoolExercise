@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact</title>
+    <link rel="stylesheet" type="text/css" href="firstline.css" />
+
+    <style>
+        .contact-wrapper {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.contact-form {
+  padding: 30px;
+}
+
+.contact-form h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.contact-form p {
+  margin-bottom: 30px;
+  color: #555;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.contact-form textarea {
+  resize: vertical;
+}
+
+.contact-form button {
+  margin-top: 25px;
+  padding: 12px 24px;
+  background-color: #222;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.contact-form button:hover {
+  background-color: #444;
+}
+    </style>
+</head>
+<body>
+    <nav class="title-nav-container">
+        <h1 id="title">MARKE</h1>
+        <ul class="firstLine">
+            <li class="firstLine-item">
+                <a href="/collection">COLLECTION</a>
+            </li>
+            <li class="firstLine-item">
+                <a href="/about">ABOUT</a>
+            </li>
+            <li class="firstLine-item">
+                <a href="/contact">CONTACT</a>
+            </li>
+            <li class="firstLine-item">
+                <a href="/SHOP">SHOP</a>
+            </li>
+        </ul>
+    </nav>
+
+    <main class="contact-wrapper">
+    <section class="contact-form">
+      <h2>Kontaktiere uns</h2>
+      <p>Wir freuen uns auf deine Nachricht. Fülle einfach das Formular aus und wir melden uns schnellstmöglich.</p>
+
+      <form>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Max Mustermann" required>
+
+        <label for="email">E-Mail</label>
+        <input type="email" id="email" name="email" placeholder="max.Mustermann@example.com" required>
+
+        <label for="phone">Telefonnummer (optional)</label>
+        <input type="tel" id="phone" name="phone" placeholder="+49 123 4567890">
+
+        <label for="message">Nachricht</label>
+        <textarea id="message" name="message" placeholder="Schreib uns etwas..." rows="5" required></textarea>
+
+        <button type="submit">Absenden</button>
+      </form>
+    </section>
+  </main>
+
+</body>
+</html>

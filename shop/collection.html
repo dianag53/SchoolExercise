@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Produktübersicht</title>
+
+      <link rel="stylesheet" type="text/css" href="firstline.css" />
+
+  <style>
+    body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.product-card {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-card img {
+  max-width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.product-card h2 {
+  font-size: 1.1rem;
+  margin: 10px 0 5px;
+  text-align: center;
+}
+
+.product-card .price {
+  font-weight: bold;
+  color: #2e7d32;
+  margin: 5px 0;
+}
+
+.product-card .desc {
+  font-size: 0.9rem;
+  color: #555;
+  text-align: center;
+}
+  </style>
+</head>
+<body>
+
+      <nav class="title-nav-container">
+        <h1 id="title">MARKE</h1>
+        <ul class="firstLine">
+            <li class="firstLine-item">
+                <a href="collection.html">COLLECTION</a>
+            </li>
+            <li class="firstLine-item">
+                <a href="about.html">ABOUT</a>
+            </li>
+            <li class="firstLine-item">
+                <a href="contact.html">CONTACT</a>
+            </li>
+            <li class="firstLine-item">
+                <a href="/shop">SHOP</a>
+            </li>
+        </ul>
+    </nav>
+
+  <h1>Unsere Naturprodukte</h1>
+  <div class="product-grid" id="productGrid"></div>
+  
+  <script>
+    fetch('product.json')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`HTTP Fehler: ${response.status}`);
+    }
+    return response.text(); // Lies erst als Text
+  })
+  .then(text => {
+    if (!text) throw new Error('Leere Antwort erhalten');
+    return JSON.parse(text); // Dann parse sicher manuell
+  })
+  .then(data => {
+    const grid = document.getElementById('productGrid');
+    data.forEach(product => {
+      const card = document.createElement('div');
+      card.className = 'product-card';
+      card.innerHTML = `
+        <img src="${product.image || 'placeholder.jpg'}" alt="${product.name}" />
+        <h2>${product.name}</h2>
+        <p class="price">€ ${product.price.toFixed(2)}</p>
+        <p class="desc">${product.description}</p>
+      `;
+      grid.appendChild(card);
+    });
+  })
+  .catch(err => {
+    console.error('Fehler beim Laden der Produkte:', err);
+  });
+  </script>
+</body>
+</html>
