@@ -1,3 +1,4 @@
+/* Brand-Philosophy */
 #brand-philosophy {
   background-color: #efeee4;
   padding: 80px 20px;
@@ -11,7 +12,7 @@
   padding: 40px 20px;
   max-width: 700px;
   margin: 0 auto;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
 }
 
 #brand-philosophy h2 {
@@ -37,17 +38,16 @@
   line-height: 1.6;
 }
 
-
-
+/* Featured Products */
 #featured-products {
-    background-color: white;
-    padding: 60px 20px;
-    text-align: center;
+  background-color: white;
+  padding: 60px 20px;
+  text-align: center;
 }
 
 .section-title {
-    font-size: 2em;
-    margin-bottom: 40px;
+  font-size: 2em;
+  margin-bottom: 40px;
 }
 
 .product-grid {
@@ -64,7 +64,7 @@
   text-align: center;
   flex: 1 1 280px;
   max-width: 320px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
 .product img {
@@ -75,30 +75,28 @@
 }
 
 .btn-outline {
-    border: 1px solid black;
-    background: none;
-    padding: 10px 20px;
-    display: inline-block;
-    margin-top: 10px;
-    transition: all 0.3s ease;
-    text-transform: uppercase;
-    font-weight: bold;
+  border: 1px solid black;
+  background: none;
+  padding: 10px 20px;
+  display: inline-block;
+  margin-top: 10px;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .btn-outline:hover {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }
-
 
 .lookbook-grid img {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 
-
-
+/* Testimonials */
 #testimonials {
   background-color: #f7f7f7;
   padding: 80px 20px;
@@ -136,12 +134,11 @@
   font-size: 1.1rem;
   color: #333;
   max-width: 600px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
   border-radius: 6px;
 }
 
-
-
+/* Newsletter */
 #newsletter {
   background-color: white;
   padding: 60px 20px;
